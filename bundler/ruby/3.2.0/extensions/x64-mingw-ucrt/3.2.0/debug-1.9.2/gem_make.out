@@ -1,0 +1,20 @@
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-gln7qr sitelibdir\=./.gem.20241003-6548-gln7qr clean
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-gln7qr sitelibdir\=./.gem.20241003-6548-gln7qr
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-gln7qr sitelibdir\=./.gem.20241003-6548-gln7qr install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20241003-6548-gln7qr/debug
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-gln7qr sitelibdir\=./.gem.20241003-6548-gln7qr clean

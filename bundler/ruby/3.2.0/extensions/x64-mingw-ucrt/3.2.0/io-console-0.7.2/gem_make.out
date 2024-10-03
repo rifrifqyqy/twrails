@@ -1,0 +1,25 @@
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+checking for rb_io_path()... no
+checking for rb_io_descriptor()... yes
+checking for rb_io_get_write_io()... yes
+checking for rb_io_closed_p()... no
+checking for rb_io_open_descriptor()... no
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-6gffzh sitelibdir\=./.gem.20241003-6548-6gffzh clean
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-6gffzh sitelibdir\=./.gem.20241003-6548-6gffzh
+generating console-x64-mingw-ucrt.def
+compiling console.c
+linking shared-object io/console.so
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-6gffzh sitelibdir\=./.gem.20241003-6548-6gffzh install
+/usr/bin/install -c -m 0755 console.so ./.gem.20241003-6548-6gffzh/io
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-6gffzh sitelibdir\=./.gem.20241003-6548-6gffzh clean

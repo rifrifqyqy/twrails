@@ -1,0 +1,34 @@
+/* css  reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* root warna */
+/* dark pallete */
+:root {
+    /* dark scale warna dari gelap ke terang dari dark1 ke dark6 */
+    --dark1: #000;
+    --dark2: #222;
+    --dark3: #333;
+    --dark4: #444;
+    --dark5: #555;
+    --dark6: #666;
+    --dark7: #777;
+    --dark8: #888;
+    /* light */
+    --light1: #fff;
+    --light2: #eee;
+    --light3: #ddd;
+    --light4: #ccc;
+    --light5: #bbb;
+    --light6: #aaa;
+    --light7: #999;
+    --light8: #888;
+    
+}

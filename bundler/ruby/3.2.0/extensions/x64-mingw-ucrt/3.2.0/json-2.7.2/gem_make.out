@@ -1,0 +1,16 @@
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/json-2.7.2/ext/json
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-1vl4mm sitelibdir\=./.gem.20241003-6548-1vl4mm clean
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-1vl4mm sitelibdir\=./.gem.20241003-6548-1vl4mm
+make: Nothing to be done for 'all'.
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-1vl4mm sitelibdir\=./.gem.20241003-6548-1vl4mm install
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-1vl4mm sitelibdir\=./.gem.20241003-6548-1vl4mm clean

@@ -1,0 +1,19 @@
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-y6603a sitelibdir\=./.gem.20241003-6548-y6603a clean
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-y6603a sitelibdir\=./.gem.20241003-6548-y6603a
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-y6603a sitelibdir\=./.gem.20241003-6548-y6603a install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241003-6548-y6603a/racc
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-y6603a sitelibdir\=./.gem.20241003-6548-y6603a clean

@@ -1,0 +1,19 @@
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/stringio-3.1.1/ext/stringio
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-18tu1s sitelibdir\=./.gem.20241003-6548-18tu1s clean
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-18tu1s sitelibdir\=./.gem.20241003-6548-18tu1s
+generating stringio-x64-mingw-ucrt.def
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-18tu1s sitelibdir\=./.gem.20241003-6548-18tu1s install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20241003-6548-18tu1s
+
+current directory: D:/RQ/Kuliah/UNPAS/Advance JS/twrails/bundler/ruby/3.2.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241003-6548-18tu1s sitelibdir\=./.gem.20241003-6548-18tu1s clean
